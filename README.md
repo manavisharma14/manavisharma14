@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ## LeetCode Stats 💻
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/{your-leetcode-username}?ext=heatmap)](https://leetcode.com/manavisharma14/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/{manavisharma14?ext=heatmap)](https://leetcode.com/manavisharma14/)
 
