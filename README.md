@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## LeetCode Stats 💻
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/{your-leetcode-username}?ext=heatmap)](https://leetcode.com/manavisharma14/)
+
