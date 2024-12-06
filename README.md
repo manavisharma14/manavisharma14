@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## LeetCode Stats 📊
+![LeetCode Stats](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=LeetCode&query=totalSolved&suffix=%20problems%20solved&url=https://leetcode-stats-api.herokuapp.com/manavisharma14)
+
+
 ## LeetCode Stats 💻
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/manavisharma14?ext=heatmap)](https://leetcode.com/manavisharma14/)
