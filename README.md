@@ -49,7 +49,7 @@ i'm currently pursuing a Master's Degree in Computer Science from University of 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ---
 
-Made with 💖 by [Your Name](https://github.com/yourusername)
+
 
 
 
