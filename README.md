@@ -2,11 +2,14 @@
 
 typing till I’m napping ✨
 
-i'm currently pursuing a Master's Degree in Computer Science from University of Kansas. I have completed my undergraduate degree in 2024 from Manipal Institute of Technology in Computer Science Engineering. 
-<!--
-**manavisharma14/manavisharma14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm currently pursuing a Master's Degree in Computer Science from University of Kansas. i have completed my undergraduate degree in 2024 from Manipal Institute of Technology in Computer Science Engineering. 
 
-Here are some ideas to get you started:
+
+🎨 ui/ux 
+🤖 competitive coding 
+🧠 building software to detect Alzheimer’s
+✨ building tech that makes a difference
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
