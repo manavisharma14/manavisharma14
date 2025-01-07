@@ -2,6 +2,7 @@
 
 typing till I’m napping ✨
 
+i'm currently pursuing a Master's Degree in Computer Science from University of Kansas. I have completed my undergraduate degree in 2024 from Manipal Institute of Technology in Computer Science Engineering. 
 <!--
 **manavisharma14/manavisharma14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
