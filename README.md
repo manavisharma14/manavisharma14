@@ -4,10 +4,13 @@ typing till I’m napping ✨
 
 i'm currently pursuing a Master's Degree in Computer Science from University of Kansas. i have completed my undergraduate degree in 2024 from Manipal Institute of Technology in Computer Science Engineering. 
 
-🎨 **ui/ux design**  
-🤖 **competitive coding**  
-🧠 **building software to detect Alzheimer’s**  
-✨ **building tech that makes a difference**  
+### 🌟 interests:
+
+🎨 ui/ux design  
+🤖 competitive coding  
+🧠 building software to detect Alzheimer’s  
+✨ building tech that makes a difference  
+
 <!--
 
 - 🔭 I’m currently working on ...
