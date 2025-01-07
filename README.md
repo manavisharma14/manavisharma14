@@ -1,6 +1,8 @@
 ## hii! i'm manavi :)
 
-typing till I’m napping ✨<!--
+typing till I’m napping ✨
+
+<!--
 **manavisharma14/manavisharma14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
