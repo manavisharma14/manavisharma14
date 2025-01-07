@@ -6,9 +6,9 @@ i'm currently pursuing a Master's Degree in Computer Science from University of 
 
 
 🎨 ui/ux 
-🤖 competitive coding 
-🧠 building software to detect Alzheimer’s
-✨ building tech that makes a difference
+!🤖 competitive coding 
+!🧠 building software to detect Alzheimer’s
+!✨ building tech that makes a difference
 <!--
 
 - 🔭 I’m currently working on ...
