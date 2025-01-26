@@ -58,6 +58,7 @@ i'm currently pursuing a Master's Degree in Computer Science from University of 
 
 
 
+<div align="center">
 
 
 ## LeetCode Stats 📊
@@ -68,3 +69,4 @@ i'm currently pursuing a Master's Degree in Computer Science from University of 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/manavisharma14?ext=heatmap)](https://leetcode.com/manavisharma14/)
 
+</div>
