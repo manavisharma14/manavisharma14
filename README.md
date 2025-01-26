@@ -22,6 +22,8 @@ i'm currently pursuing a Master's Degree in Computer Science from University of 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### GitHub Stats 📊
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=manavisharma14)
 
 
 🎯 **Ways to Reach Out:**
