@@ -22,11 +22,15 @@ i'm currently pursuing a Master's Degree in Computer Science from University of 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
+
 ### GitHub Stats 📊
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=manavisharma14&theme=tokyonight)
 
 </div>
+
+
 🎯 **Ways to Reach Out:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manavi-sharma-521014222/)
