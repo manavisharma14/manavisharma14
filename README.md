@@ -23,7 +23,7 @@ i'm currently pursuing a Master's Degree in Computer Science from University of 
 - ⚡ Fun fact: ...
 -->
 ### GitHub Stats 📊
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=manavisharma14)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=manavisharma14&theme=tokyonight)
 
 
 🎯 **Ways to Reach Out:**
